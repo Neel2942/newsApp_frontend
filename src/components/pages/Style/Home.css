@@ -1,0 +1,21 @@
+.section-row {
+    border: 1px solid #ddd; /* Light border for all sections */
+    margin-bottom: 15px;
+  }
+  
+  .big-section,
+  .big-section-info{
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+
+  .small-section-box{
+    padding: 15px;
+    margin: 5px;
+  }
+  
+  img.img-fluid {
+    width: 100%;
+    height: auto;
+  }
+  
